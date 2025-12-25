@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Credentials locaux
+.env.proxy.local
+mcp.json
+
+# Logs
+*.log
+npm-debug.log*
