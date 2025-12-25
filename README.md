@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/PMATS_Alex_Logo_Transparent_700x513.png" alt="Alex Logo" width="350">
+</p>
+
 # Alex MCP Proxy
 
 MCP proxy client to connect GitHub Copilot and Claude Desktop to Alex, the Business Central AL code assistant.
@@ -5,6 +9,10 @@ MCP proxy client to connect GitHub Copilot and Claude Desktop to Alex, the Busin
 ## 🎯 What is Alex?
 
 Alex is an AI assistant specialized in Microsoft Dynamics 365 Business Central AL code. It helps you understand, debug, and develop AL code more efficiently.
+
+**🔗 Links:**
+- **Web App**: [https://alex.app.pmats.ai](https://alex.app.pmats.ai)
+- **Documentation**: [https://alex.app.pmats.ai/docs/](https://alex.app.pmats.ai/docs/)
 
 This guide shows you how to install Alex MCP proxy in **GitHub Copilot** (VS Code) or **Claude Desktop**.
 
@@ -287,7 +295,7 @@ Alex will automatically answer using its knowledge of Business Central AL code.
 
 Alex integrates seamlessly into your conversation with Claude.
 
-## � Updating the Proxy
+## 🔄 Updating the Proxy
 
 If the MCP proxy code has been updated (new features, bug fixes, etc.), follow these steps to update your installation:
 
@@ -341,7 +349,7 @@ If a major update introduces breaking changes (API key format, configuration str
 
 **Note:** The installer preserves your API key and other custom settings when updating.
 
-## �🔧 Common Issues
+## 🔧 Common Issues
 
 ### Alex doesn't appear in GitHub Copilot
 
