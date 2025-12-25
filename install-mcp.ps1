@@ -48,11 +48,14 @@ try {
 }
 
 Write-Host ""
-Write-Host "   ___   _                " -ForegroundColor Cyan
-Write-Host "  / _ \ | |               " -ForegroundColor Cyan
-Write-Host " | |_| || |  ___  __  __ " -ForegroundColor Cyan
-Write-Host " |  _  || | / _ \/ \/ / " -ForegroundColor Cyan
-Write-Host " |_| |_||_||\___|_/\_\  " -ForegroundColor Cyan
+Write-Host "           _           " -ForegroundColor Cyan
+Write-Host "     /\   | |          " -ForegroundColor Cyan
+Write-Host "    /  \  | | _____  __" -ForegroundColor Cyan
+Write-Host "   / /\ \ | |/ _ \ \/ /" -ForegroundColor Cyan
+Write-Host "  / ____ \| |  __/>  < " -ForegroundColor Cyan
+Write-Host " /_/    \_\_|\___/_/\_\" -ForegroundColor Cyan
+Write-Host "                       " -ForegroundColor Cyan
+Write-Host "                       " -ForegroundColor Cyan
 Write-Host "" 
 
 # Dynamic box with centered text

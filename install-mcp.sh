@@ -83,11 +83,14 @@ done
 # Banner
 VERSION=$(cat "$SCRIPT_DIR/VERSION.txt" 2>/dev/null || echo "unknown")
 echo -e "${BLUE}"
-echo "   ___   _                "
-echo "  / _ \ | |               "
-echo " | |_| || |  ___  __  __ "
-echo " |  _  || | / _ \/ \/ / "
-echo " |_| |_||_||\___|_/\_\  "
+echo "           _           "
+echo "     /\   | |          "
+echo "    /  \  | | _____  __"
+echo "   / /\ \ | |/ _ \ \/ /"
+echo "  / ____ \| |  __/>  < "
+echo " /_/    \_\_|\___/_/\_\"
+echo "                       "
+echo "                       "
 echo -e "${NC}"
 
 # Dynamic box with centered text
